@@ -146,3 +146,10 @@ import:
   version: 9af46dd5a1713e8b5cd71106287eba3cefdde50b
 - package: google.golang.org/grpc
   version: v1.2.0
+
+- package: github.com/prometheus/client_golang
+  version: 08fd2e12372a66e68e30523c7642e0cbc3e4fbde
+- package: github.com/prometheus/client_model
+  version: 6f3806018612930941127f2a7c6c453ba2c527d2
+- package: github.com/prometheus/common
+  version: 49fee292b27bfff7f354ee0f64e1bc4850462edf
